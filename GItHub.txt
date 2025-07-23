@@ -1,0 +1,60 @@
+Control de Versiones
+
+Proceso de rastreo en los cambios en el codigo o un archivo
+
+VCS
+Version Control Systen
+Herramientas de software que se diseñaron para controlar los cambios en las versiones del codigo
+
+--Respaldo Manual, copia de carpetas
+
+--Respaldo Automatico --Software como GIT
+
+Puede ser de forma Local o Remota.
+
+
+Porque?
+-Reparacion de Errores
+-Trabajo en equipo
+-Registro por autor
+-Trabajar en varios flujos o Ramas
+
+-Ramas alternativas y Rama Principal
+-Conectar a un gestor de proyectos
+
+
+----Porque Git---
+Gratuito
+
+DVCS - Systema de control de versiones distribuidas, cada ordenador tiene una copia local. 
+
+Repositorio - Una carpeta donde se almacena nuestro codigo
+
+*****************************************************************************************************************
+Crear repositorio en Android
+
+Ruta total de donde se esta alojando el proyecto
+
+Configuracion de Android
+
+VersionControl - > Git -> test
+
+Version control, File status color
+Verde - nueva clase
+Rojo - Conflictos
+Naranja - ignorar
+Rojo bajo - Desconocido
+blanco -Alertas sin conflicto
+Azules - Modificaciones
+
+
+
+
+
+
+
+
+
+
+
+
