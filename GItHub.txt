@@ -75,6 +75,10 @@ git revert y la clave del commit para reversar
 Cambios realizados por usuario Guly 
 Prueba de trabajo con dos usuarios
 
+********************************************************************
+Cambios agregados por el usuario Andres
+
+
 
 
 
