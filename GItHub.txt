@@ -66,6 +66,10 @@ Capturar el estado total del proyecto o archivo por archivo
 git commit -m "Prueba de commit desde CDM"
 git commit archivvodos.txt --"Prueba de segundo commit"
 
+visualizar commits desde la terminal 
+git log
+
+git revert y la clave del commit para reversar 
 
 
 
