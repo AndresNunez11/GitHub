@@ -64,7 +64,16 @@ Commit - corresponde a la publicacion de los cambios realizados.
 Capturar el estado total del proyecto o archivo por archivo
 
 git commit -m "Prueba de commit desde CDM"
-git commit archivvodos.txt --"Prueba de segundo commit"
+git commit -m "Prueba de segundo commit" Archivodos.txt
+
+visualizar commits desde la terminal 
+git log
+
+git revert y la clave del commit para reversar 
+
+
+
+
 
 
 
