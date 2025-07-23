@@ -48,6 +48,15 @@ blanco -Alertas sin conflicto
 Azules - Modificaciones
 
 
+Commit para subir los cambios
+
+Revertir un commit -- en este caso  -- Revert commit
+
+***********************************************************************
+Comandos Basicos para GIT
+
+
+
 
 
 
