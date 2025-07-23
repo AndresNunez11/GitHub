@@ -54,6 +54,13 @@ Revertir un commit -- en este caso  -- Revert commit
 
 ***********************************************************************
 Comandos Basicos para GIT
+git init para crear el repositorio desde la carpeta del proyecto
+git add para agregar nuestros archivos
+git add . agrega el total de los archivos
+git add nombre del archivo
+
+
+
 
 
 
